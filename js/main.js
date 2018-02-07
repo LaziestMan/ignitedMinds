@@ -173,8 +173,9 @@ var App = {
 				effect:"zoom",
 
 				images:[
-					"http://placehold.it/1920x1080/ffadaa",
-					"http://placehold.it/1920x1080/ceffaa",
+					"./img/carousel/slider-1.jpg",
+					"./img/carousel/slider-2.jpg",
+					"./img/carousel/slider-3.jpg",
 				]
 				
 			});
